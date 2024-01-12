@@ -2,10 +2,10 @@
 
                               Reflection
                              Workshop - #1
-Full Name  : 
-Student ID#: 
-Email      : 
-Section    : 
+Full Name  : Jason Atmosfera
+Student ID#: 103512208
+Email      : jatmosfera@myseneca.ca
+Section    : IPC144NCC
 
 Authenticity Declaration:
 
@@ -13,4 +13,9 @@ I declare this submission is the result of my own work and has not been
 shared with any other student or 3rd party content provider. This submitted
 piece of work is entirely of my own creation.
 ###########################################################################
+1. I am currently in the process of taking Harvard's CS50x, Introduction to Computer Science, online course. During this process I have gotten a little bit of experience with coding in C language on Visual Studio.
+I've also gotten to learn a few basics about the history and processes of coding and what goes on within the machine and software itself when we actually code. (Bits, bytes, arrays, storage, etc)
 
+2. My rough understanding of the compiling process is that it's purpose is to convert the source code into machine code for the computer to understand what I am trying to say. This is because computers can only process and understand information through binary, and not the source code we right itself.
+
+3. I hope to build a very strong foundation with the basics and fundamentals of coding. I want to be able to build somewhat complex programs and be fluent within multiple languages of code. Debugging and errors are also something I am very nervous about so making sure I understand at least most of the common errors and fixes would be ideal.
